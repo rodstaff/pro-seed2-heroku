@@ -1,1 +1,1 @@
-# pro-seed-heroku
+# pro-seed2-heroku
